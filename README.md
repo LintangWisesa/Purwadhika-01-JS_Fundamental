@@ -1,7 +1,9 @@
-# Purwadhika-01-JS_Fundamental
+# Purwadhika JavaScript Fundamental
 **Materi Job Connector Purwadhika Batch 04**
 
 **Januari-April 2018**
+
+Link: *[bit.ly/jc04fundamental](https://github.com/LintangWisesa/Purwadhika-01-JS_Fundamental)*
 
 - Intro to JavaScript
 - String & Number
