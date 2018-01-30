@@ -1,7 +1,7 @@
 # Purwadhika-01-JS_Fundamental
-Materi Job Connector Purwadhika Batch 04
+**Materi Job Connector Purwadhika Batch 04**
 
-Januari 2018
+**Januari-April 2018**
 
 - Intro to JavaScript
 - String & Number
