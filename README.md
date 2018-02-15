@@ -2,9 +2,8 @@
 
 ![Lintang_Purwadhika](https://static.wixstatic.com/media/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png/v1/fill/w_246,h_39,al_c,usm_0.66_1.00_0.01/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png)
 
-**Materi Job Connector Purwadhika Batch 04**
-
-**Januari-April 2018**
+###**Materi Job Connector Purwadhika Batch 04**
+###**Januari-April 2018**
 
 No.|Modul|Unduh
 -----|-----|-----
@@ -13,7 +12,7 @@ No.|Modul|Unduh
 3.|Back-End Development|*Belum tersedia*
 4.|Mobile Development|*Belum tersedia*
 
-## Modul 1 JavaScript Fundamental:
+### Modul 1 JavaScript Fundamental:
 
 - Intro to JavaScript
 - String & Number
