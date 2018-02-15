@@ -6,7 +6,14 @@
 
 **Januari-April 2018**
 
-Link: *[bit.ly/jc04fundamental](https://github.com/LintangWisesa/Purwadhika-01-JS_Fundamental)*
+No.|Modul|Unduh
+---|---|---
+ 1. | JavaScript Fundamental | *[bit.ly/jc04fundamental](https://github.com/LintangWisesa/Purwadhika-01-JS_Fundamental)*
+ 2. | Front-End Development | *[bit.ly/jc04frontend](https://github.com/LintangWisesa/Purwadhika-JC04-02_FrontEndWeb)*
+ 3. | Back-End Development | *Belum tersedia*
+ 4. | Mobile Development | *Belum tersedia*
+
+## Modul 1 JavaScript Fundamental:
 
 - Intro to JavaScript
 - String & Number
